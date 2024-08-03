@@ -1,12 +1,16 @@
 <h1 align="center"> Hi 👋, My name is Yamil Ayma </h1>
 
-<h3 align="center">Software Engineering Student | I like programming in Python | I love rabbits 🐰❤</h3>
+<h3 align="center">
 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7EE5D&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;I+like+programming+in+Python;I+love+rabbits+%F0%9F%90%B0%E2%9D%A4)](https://git.io/typing-svg)
+  
+</h3>
 
-
-- 🔭 I’m currently working on **my portfolio**
-- 🌱 I’m currently learning **Java, Software Project Planning, Design Patterns**
-- 👯 I’m looking to collaborate on **small projects and learn from others**
+### About Me:
+* 🌍 I'm based in Peru
+* 🔭 I’m currently working on **my portfolio**
+* 🌱 I’m currently learning **Java, Software Development, Design Patterns and Data Analysis**
+* 👯 I’m looking to collaborate on **small projects or education projects and learn from others**
 
 
 <h3 align="left">Languages and Tools:</h3>
