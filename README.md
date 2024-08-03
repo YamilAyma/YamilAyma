@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yamil Ayma</h1>
+Hi 👋, My name is Yamil Ayma
 <h3 align="center">Software Engineering Student | I like programming in Python | I love rabbits 🐰❤</h3>
 
 - 🔭 I’m currently working on **my portfolio**
