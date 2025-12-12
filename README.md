@@ -7,11 +7,11 @@
   
 </h3>
 
-### About Me:
+### Sobre Mí:
 * 🌍 Me encuentro en Lima,Peru.
 * 🔭 Actualmente estoy desarrollando proyectos para **mi portafolio**
 * 🌱 Estoy estudiando **Tecnologías Full Stack, Automatización e Inteligencia Artificial**
 * 💫 Me gusta crear **desarrollar proyectos y enseñar lo que aprendo**
 
-
+### Blog: https://yamilayma.github.io/
 
