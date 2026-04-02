@@ -38,24 +38,24 @@
 
 <p align="center">
   <a href="https://yamilayma.github.io/">
-    <img src="assets/yamilayma-sitio-personal-card.avif" width="210" alt="Sitio Personal" style="border-radius: 10px;">
+    <img src="assets/yamilayma-sitio-personal-card.avif" width="310" alt="Sitio Personal" style="border-radius: 10px;">
   </a>
   <a href="https://yamilayma.github.io/portafolio/">
-    <img src="assets/yamilayma-portafolio-card.avif" width="210" alt="Portafolio" style="border-radius: 10px;">
+    <img src="assets/yamilayma-portafolio-card.avif" width="310" alt="Portafolio" style="border-radius: 10px;">
   </a>
   <a href="https://yamilayma.github.io/proyectos/">
-    <img src="assets/yamilayma-proyectos-card.avif" width="210" alt="Proyectos" style="border-radius: 10px;">
+    <img src="assets/yamilayma-proyectos-card.avif" width="310" alt="Proyectos" style="border-radius: 10px;">
   </a>
 </p>
 <p align="center">
   <a href="https://yamilayma.github.io/posts/">
-    <img src="assets/yamilayma-post-card.avif" width="210" alt="Blog/Posts" style="border-radius: 10px;">
+    <img src="assets/yamilayma-post-card.avif" width="310" alt="Blog/Posts" style="border-radius: 10px;">
   </a>
   <a href="https://yamilayma.github.io/contacto/">
-    <img src="assets/yamilayma-redes-card.avif" width="210" alt="Contacto" style="border-radius: 10px;">
+    <img src="assets/yamilayma-redes-card.avif" width="310" alt="Contacto" style="border-radius: 10px;">
   </a>
   <a href="https://github.com/YamilAyma/cv/releases/download/latest/Anthony_Yamil_Ayma_Leon_CV.pdf">
-    <img src="assets/yamilayma-cv-card.avif" width="210" alt="CV" style="border-radius: 10px;">
+    <img src="assets/yamilayma-cv-card.avif" width="310" alt="CV" style="border-radius: 10px;">
   </a>
 </p>
 
@@ -75,3 +75,15 @@
   <!-- BLOG-LIST:END -->
 </details>
 
+### Estadísticas
+
+<details closed>
+  <summary><b>Stardev.io - Estadisticas a nivel geográfico</b></summary>
+  <br />
+  <a href="https://stardev.io/developers/YamilAyma"><img alt="Check out YamilAyma's profile on stardev.io" src="https://stardev.io/developers/YamilAyma/badge/languages/global.svg" /></a>
+
+  <a href="https://stardev.io/developers/YamilAyma"><img alt="Check out YamilAyma's profile on stardev.io" src="https://stardev.io/developers/YamilAyma/badge/languages/country.svg" /></a>
+
+  <a href="https://stardev.io/developers/YamilAyma"><img alt="Check out YamilAyma's profile on stardev.io" src="https://stardev.io/developers/YamilAyma/badge/languages/locality.svg" /></a>
+
+</details>
