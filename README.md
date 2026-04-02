@@ -211,13 +211,15 @@ y varias más...
   <summary><b>Entradas recientes del blog</b></summary>
   <br />
   <!-- BLOG-LIST:START -->
-- [Mejorando el repositorio de Enlaces para Desarrolladores](https://yamilayma.github.io/blog/dev/enlaces-para-desarrolladores/) &nbsp;&nbsp; 🗓️ <i>19/03/2026</i>
 
-- [> Mejoras en el blog](https://yamilayma.github.io/blog/mejora-contenido/) &nbsp;&nbsp; 🗓️ <i>06/02/2026</i>
 
-- [[Recurso] - Documentando Microservicios con PlantUML. De horas a segundos](https://yamilayma.github.io/blog/recursos/docs-plantuml/) &nbsp;&nbsp; 🗓️ <i>22/01/2026</i>
+- [Mejorando el repositorio de Enlaces para Desarrolladores](https://yamilayma.github.io/blog/dev/enlaces-para-desarrolladores/) - 🗓️ <i>19/03/2026</i>
 
-- [Personalizando Google AI Studio con Stylus](https://yamilayma.github.io/blog/dev/custom-googleaistudio-with-stylus/) &nbsp;&nbsp; 🗓️ <i>05/01/2026</i>
+- [> Mejoras en el blog](https://yamilayma.github.io/blog/mejora-contenido/) - 🗓️ <i>06/02/2026</i>
+
+- [[Recurso] - Documentando Microservicios con PlantUML. De horas a segundos](https://yamilayma.github.io/blog/recursos/docs-plantuml/) - 🗓️ <i>22/01/2026</i>
+
+- [Personalizando Google AI Studio con Stylus](https://yamilayma.github.io/blog/dev/custom-googleaistudio-with-stylus/) - 🗓️ <i>05/01/2026</i>
 <!-- BLOG-LIST:END -->
 </details>
 
