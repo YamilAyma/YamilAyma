@@ -36,10 +36,10 @@ def get_blog_posts(xml_content):
         link = item.find("link").text
         pub_date = item.find("pubDate").text
         formatted_date = format_date(pub_date)
-        # Usamos doble salto de línea para asegurar que se renderice como lista
-        lines.append(f"- [{title}]({link}) &nbsp;&nbsp; 🗓️ <i>{formatted_date}</i>")
+        # Usamos doble salto de línea y un guion separador
+        lines.append(f"- [{title}]({link}) - 🗓️ <i>{formatted_date}</i>")
     
-    return "\n\n".join(lines)
+    return "\n\n" + "\n\n".join(lines)
 
 def get_visual_posts(xml_content):
     if not xml_content: return ""

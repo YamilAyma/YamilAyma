@@ -1,20 +1,29 @@
-<h1 align="center"> Hola 👋, Mi nombre es Yamil Ayma </h1>
+# Saludos, soy Yamil Ayma 👋
 
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yamil-ayma-leon/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/Yamil_Ayma" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://github.com/YamilAyma" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://hits.dwyl.com/yamilayma/yamilayma.svg?style=flat-square" target="_blank">
-    <img src="https://hits.dwyl.com/yamilayma/yamilayma.svg?style=flat-square" alt="GitHub">
-  </a>
-</p>
+<a href="https://es.pinterest.com/yamilaymaing/" target="_blank">
+  <img src="assets/icons/pinterest.svg" width=30 alt="Pinterest">
+</a>
+<a href="https://www.linkedin.com/in/yamilayma/" target="_blank">
+  <img src="assets/icons/linkedin.svg" width=30 alt="LinkedIn">
+</a>
+<a href="https://yamilayma.tumblr.com/" target="_blank">
+  <img src="assets/icons/tumblr.svg" width=30 alt="Tumblr">
+</a>
+<a href="https://github.com/YamilAyma" target="_blank">
+  <img src="assets/icons/github.svg" width=30 alt="GitHub">
+</a>
+<a href="https://mastodon.social/@yamilayma" target="_blank">
+  <img src="assets/icons/mastodon.svg" width=30 alt="Mastodon">
+</a>
+<a href="https://wa.me/51940750073?text=%C2%A1Hola%2C%20Yamil!%20Vengo%20desde%20tu%20perfil%20de%20GitHub%20y%20me%20gustar%C3%ADa%20conversar%20contigo." target="_blank">
+  <img src="assets/icons/whatsapp.svg" width=30 alt="WhatsApp">
+</a>
+<a href="https://t.me/yamil_ayma_canal" target="_blank">
+  <img src="assets/icons/telegram.svg" width=30 alt="Telegram">
+</a>
+<a href="mailto:contacto.yamilayma@gmail.com" target="_blank">
+  <img src="assets/icons/correo.svg" width=30 alt="Correo">
+</a>
 
 <table>
   <tr>
@@ -25,7 +34,6 @@
         <li>🔭 Actualmente desarrollando proyectos para mi portafolio.</li>
         <li>🌱 Estudiando Tecnologías Full Stack e IA.</li>
         <li>💫 Me gusta desarrollar proyectos y enseñar lo que aprendo.</li>
-        <!-- Agrega más puntos aquí -->
       </ul>
     </td>
     <td valign="middle" align="center" width="45%">
@@ -58,6 +66,80 @@
     <img src="assets/yamilayma-cv-card.avif" width="310" alt="CV" style="border-radius: 10px;">
   </a>
 </p>
+
+---
+
+### 💻 Proyectos relevantes
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="10%">Imagen</th>
+      <th width="20%">Nombre</th>
+      <th width="50%">Descripción</th>
+      <th width="20%">Sitio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/YamilAyma/enlaces-para-desarrolladores">
+          <img src="https://enlaces-para-desarrolladores.netlify.app/logo.png" width="100%" alt="Logo de Enlaces para Programadores, es un clip" style="border-radius:10px;" />
+        </a>
+      </td>
+      <td><b>Enlaces para Desarrolladores</b></td>
+      <td>🚀⭐ Mi lista con enlaces a herramientas, boletines, blogs y entre otros recursos para desarrolladores (Se actualiza a menudo) 🔥</td>
+      <td align="center">
+        <a href="https://enlaces-para-desarrolladores.netlify.app/">
+          <img src="https://img.shields.io/badge/-Visitar-0097b2?style=flat-square&logo=google-chrome&logoColor=white" alt="Sitio">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/YamilAyma/blog">
+          <img src="https://avatars.githubusercontent.com/u/177412646" width="100%" alt="Logo de mi sitio personal" style="border-radius:10px;" />
+        </a>
+      </td>
+      <td><b>Sitio Personal</b></td>
+      <td>Sitio personalizable con herramientas de publicación para redes, SEO y todo lo demás. En constante desarrollo.</td>
+      <td align="center">
+        <a href="https://github.com/YamilAyma/blog">
+          <img src="https://img.shields.io/badge/-Visitar-0097b2?style=flat-square&logo=google-chrome&logoColor=white" alt="Sitio">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/YamilAyma/AI-Cheatsheets">
+          <img src="https://github.com/YamilAyma/AI-Cheatsheets/blob/main/default-og-image.png?raw=true" width="100%" alt="Proyecto 1" style="border-radius:10px;" />
+        </a>
+      </td>
+      <td><b>AI Cheatsheets</b></td>
+      <td>Una colección de 'Cheatsheets' generados con IA para estudiar y conocer tecnologías software.</td>
+      <td align="center">
+        <a href="https://github.com/YamilAyma/AI-Cheatsheets">
+          <img src="https://img.shields.io/badge/-Visitar-0097b2?style=flat-square&logo=google-chrome&logoColor=white" alt="Sitio">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Una-Comunidad-de-Python">
+          <img src="https://avatars.githubusercontent.com/u/220103172?s=200&v=4" width="50px" alt="Proyecto 1" style="border-radius:10px;" />
+        </a>
+      </td>
+      <td><b>Una Comunidad de Python</b></td>
+      <td>Comunidad de programación enfocada a Python, se brinda recursos y apoyo entre participantes.</td>
+      <td align="center">
+        <a href="https://github.com/Una-Comunidad-de-Python">
+          <img src="https://img.shields.io/badge/-Visitar-0097b2?style=flat-square&logo=google-chrome&logoColor=white" alt="Sitio">
+        </a>
+      </td>
+    </tr>
+    <!-- Duplicar la fila anterior para añadir más proyectos -->
+  </tbody>
+</table>
 
 ---
 
