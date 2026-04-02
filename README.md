@@ -1,4 +1,4 @@
-# Saludos, soy Yamil Ayma 👋
+# ¡Hola! Soy Yamil. Un gusto saludarte. ✨
 
 <a href="https://es.pinterest.com/yamilaymaing/" target="_blank">
   <img src="assets/icons/pinterest.svg" width=30 alt="Pinterest">
@@ -142,6 +142,29 @@
 </table>
 
 ---
+
+### Tecnologías y herramientas que uso
+
+![Astro](https://ziadoua.github.io/m3-Markdown-Badges/badges/Astro/astro2.svg)
+![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
+![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
+![Netlify](https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify1.svg)
+![VisualStudioCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
+![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg)
+![Javascript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg)
+![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
+![MySQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg)
+![NodeJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg)
+![PostgreSQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg)
+![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg)
+![SQLite](https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite2.svg)
+![Supabase](https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase1.svg)
+![TailwindCSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
+![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)
+![Vercel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg)
+
+y varias más...
 
 <details open>
   <summary><b>Últimas publicaciones</b></summary>
