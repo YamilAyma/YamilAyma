@@ -36,9 +36,10 @@ def get_blog_posts(xml_content):
         link = item.find("link").text
         pub_date = item.find("pubDate").text
         formatted_date = format_date(pub_date)
-        lines.append(f"- [{title}]({link}) - {formatted_date}")
+        # Usamos doble salto de línea para asegurar que se renderice como lista
+        lines.append(f"- [{title}]({link}) &nbsp;&nbsp; 🗓️ <i>{formatted_date}</i>")
     
-    return "\n".join(lines)
+    return "\n\n".join(lines)
 
 def get_visual_posts(xml_content):
     if not xml_content: return ""
@@ -58,10 +59,10 @@ def get_visual_posts(xml_content):
         img_url = media_content.get("url") if media_content is not None else ""
         alt_text = media_desc.text if media_desc is not None else title
         
-        # Grid 2x2
+        # Grid 2x2 - Actualizado a 310px de ancho
         table_content += f'    <td align="center" width="50%">\n'
         table_content += f'      <a href="{link}">\n'
-        table_content += f'        <img src="{img_url}" alt="{alt_text}" width="100%" style="border-radius:10px;" />\n'
+        table_content += f'        <img src="{img_url}" alt="{alt_text}" width="310" style="border-radius:10px;" />\n'
         table_content += f'        <br />\n'
         table_content += f'        <sub>{title}</sub>\n'
         table_content += f'      </a>\n'

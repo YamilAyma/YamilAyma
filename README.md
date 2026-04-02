@@ -29,7 +29,7 @@
       </ul>
     </td>
     <td valign="middle" align="center" width="45%">
-      <img src="assets/yamilayma-decorativo.avif" width="100%" alt="Decorativo">
+      <img src="assets/yamilayma-decorativo.png" width="100%" alt="Decorativo">
     </td>
   </tr>
 </table>
@@ -38,13 +38,13 @@
 
 <p align="center">
   <a href="https://yamilayma.github.io/">
-    <img src="assets/yamilayma-sitio-personal-card.avif" width="310" alt="Sitio Personal" style="border-radius: 10px;">
+    <img src="assets/yamilayma-sitio-personal-card.avif" width="250" alt="Sitio Personal" style="border-radius: 10px;">
   </a>
   <a href="https://yamilayma.github.io/portafolio/">
-    <img src="assets/yamilayma-portafolio-card.avif" width="310" alt="Portafolio" style="border-radius: 10px;">
+    <img src="assets/yamilayma-portafolio-card.avif" width="250" alt="Portafolio" style="border-radius: 10px;">
   </a>
   <a href="https://yamilayma.github.io/proyectos/">
-    <img src="assets/yamilayma-proyectos-card.avif" width="310" alt="Proyectos" style="border-radius: 10px;">
+    <img src="assets/yamilayma-proyectos-card.avif" width="250" alt="Proyectos" style="border-radius: 10px;">
   </a>
 </p>
 <p align="center">
