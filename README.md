@@ -65,14 +65,52 @@
   <summary><b>Últimas publicaciones</b></summary>
   <br />
   <!-- POST-LIST:START -->
-  <!-- POST-LIST:END -->
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://yamilayma.github.io/posts/automatizacion/nuevos-roles/">
+        <img src="https://yamilayma.github.io/_astro/nuevos-roles.BUjwMkEP.png" alt="Automatización: Una Herramienta para la Inclusión Laboral" width="100%" style="border-radius:10px;" />
+        <br />
+        <sub>Automatización: Una Herramienta para la Inclusión Laboral</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://yamilayma.github.io/posts/automatizacion/palabras-claves/">
+        <img src="https://yamilayma.github.io/_astro/palabras-claves.y4m_7q_S.png" alt="La Gramática de la Automatización: Sujetos, Verbos y Predicados" width="100%" style="border-radius:10px;" />
+        <br />
+        <sub>La Gramática de la Automatización: Sujetos, Verbos y Predicados</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://yamilayma.github.io/posts/automatizacion/analisis-previo/">
+        <img src="https://yamilayma.github.io/_astro/analisis-previo.BPfuPyDq.png" alt="Arqueología de Procesos: Cuestionar antes de Automatizar" width="100%" style="border-radius:10px;" />
+        <br />
+        <sub>Arqueología de Procesos: Cuestionar antes de Automatizar</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://yamilayma.github.io/posts/automatizacion/error-humano/">
+        <img src="https://yamilayma.github.io/_astro/error-humano.gU-ONEAp.png" alt="El error humano en la automatización: ¿Culpa o oportunidad?" width="100%" style="border-radius:10px;" />
+        <br />
+        <sub>El error humano en la automatización: ¿Culpa o oportunidad?</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+<!-- POST-LIST:END -->
 </details>
 
 <details open>
   <summary><b>Entradas recientes del blog</b></summary>
   <br />
   <!-- BLOG-LIST:START -->
-  <!-- BLOG-LIST:END -->
+- [Mejorando el repositorio de Enlaces para Desarrolladores](https://yamilayma.github.io/blog/dev/enlaces-para-desarrolladores/) - 19/03/2026
+- [> Mejoras en el blog](https://yamilayma.github.io/blog/mejora-contenido/) - 06/02/2026
+- [[Recurso] - Documentando Microservicios con PlantUML. De horas a segundos](https://yamilayma.github.io/blog/recursos/docs-plantuml/) - 22/01/2026
+- [Personalizando Google AI Studio con Stylus](https://yamilayma.github.io/blog/dev/custom-googleaistudio-with-stylus/) - 05/01/2026
+<!-- BLOG-LIST:END -->
 </details>
 
 ### Estadísticas
