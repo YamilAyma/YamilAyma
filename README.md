@@ -173,12 +173,21 @@ y varias más...
 <table>
   <tr>
     <td align="center" width="50%">
+      <a href="https://yamilayma.github.io/posts/automatizacion/shadow-automation/">
+        <img src="https://yamilayma.github.io/_astro/shadow-automation.Br4P3oND.png" alt="Shadow Automation: El Instinto de Innovación Invisible" width="310" style="border-radius:10px;" />
+        <br />
+        <sub>Shadow Automation: El Instinto de Innovación Invisible</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/automatizacion/nuevos-roles/">
         <img src="https://yamilayma.github.io/_astro/nuevos-roles.BUjwMkEP.png" alt="Automatización: Una Herramienta para la Inclusión Laboral" width="310" style="border-radius:10px;" />
         <br />
         <sub>Automatización: Una Herramienta para la Inclusión Laboral</sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/automatizacion/palabras-claves/">
         <img src="https://yamilayma.github.io/_astro/palabras-claves.y4m_7q_S.png" alt="La Gramática de la Automatización: Sujetos, Verbos y Predicados" width="310" style="border-radius:10px;" />
@@ -186,20 +195,11 @@ y varias más...
         <sub>La Gramática de la Automatización: Sujetos, Verbos y Predicados</sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/automatizacion/analisis-previo/">
         <img src="https://yamilayma.github.io/_astro/analisis-previo.BPfuPyDq.png" alt="Arqueología de Procesos: Cuestionar antes de Automatizar" width="310" style="border-radius:10px;" />
         <br />
         <sub>Arqueología de Procesos: Cuestionar antes de Automatizar</sub>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://yamilayma.github.io/posts/automatizacion/error-humano/">
-        <img src="https://yamilayma.github.io/_astro/error-humano.gU-ONEAp.png" alt="El error humano en la automatización: ¿Culpa o oportunidad?" width="310" style="border-radius:10px;" />
-        <br />
-        <sub>El error humano en la automatización: ¿Culpa o oportunidad?</sub>
       </a>
     </td>
   </tr>
