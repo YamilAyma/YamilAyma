@@ -215,11 +215,11 @@ y varias más...
 
 - [El sistema de identidades](https://yamilayma.github.io/proyectos/plataforma-bots-whatsapp/diario/02-sistema-de-identidades/) - 🗓️ <i>04/04/2026</i>
 
-- [Obteniendo archivos por medio de WhatsApp](https://yamilayma.github.io/proyectos/plataforma-bots-whatsapp/diario/03-descargas-de-archivos/) - 🗓️ <i>04/04/2026</i>
-
 - [Un inicio inesperado](https://yamilayma.github.io/proyectos/plataforma-bots-whatsapp/diario/01-inicio/) - 🗓️ <i>03/04/2026</i>
 
 - [Mejorando el repositorio de Enlaces para Desarrolladores](https://yamilayma.github.io/blog/dev/enlaces-para-desarrolladores/) - 🗓️ <i>19/03/2026</i>
+
+- [> Mejoras en el blog](https://yamilayma.github.io/blog/mejora-contenido/) - 🗓️ <i>06/02/2026</i>
 <!-- BLOG-LIST:END -->
 </details>
 
