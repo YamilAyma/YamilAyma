@@ -173,12 +173,21 @@ y varias más...
 <table>
   <tr>
     <td align="center" width="50%">
+      <a href="https://yamilayma.github.io/posts/automatizacion/cambio-contexto/">
+        <img src="https://yamilayma.github.io/_astro/cambio-contexto.CXJZ_r0a.png" alt="El costo invisible del cambio de contexto" width="310" style="border-radius:10px;" />
+        <br />
+        <sub>El costo invisible del cambio de contexto</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/automatizacion/shadow-automation/">
         <img src="https://yamilayma.github.io/_astro/shadow-automation.Br4P3oND.png" alt="Shadow Automation: El Instinto de Innovación Invisible" width="310" style="border-radius:10px;" />
         <br />
         <sub>Shadow Automation: El Instinto de Innovación Invisible</sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/automatizacion/nuevos-roles/">
         <img src="https://yamilayma.github.io/_astro/nuevos-roles.BUjwMkEP.png" alt="Automatización: Una Herramienta para la Inclusión Laboral" width="310" style="border-radius:10px;" />
@@ -186,20 +195,11 @@ y varias más...
         <sub>Automatización: Una Herramienta para la Inclusión Laboral</sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/automatizacion/palabras-claves/">
         <img src="https://yamilayma.github.io/_astro/palabras-claves.y4m_7q_S.png" alt="La Gramática de la Automatización: Sujetos, Verbos y Predicados" width="310" style="border-radius:10px;" />
         <br />
         <sub>La Gramática de la Automatización: Sujetos, Verbos y Predicados</sub>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://yamilayma.github.io/posts/automatizacion/analisis-previo/">
-        <img src="https://yamilayma.github.io/_astro/analisis-previo.BPfuPyDq.png" alt="Arqueología de Procesos: Cuestionar antes de Automatizar" width="310" style="border-radius:10px;" />
-        <br />
-        <sub>Arqueología de Procesos: Cuestionar antes de Automatizar</sub>
       </a>
     </td>
   </tr>
@@ -213,13 +213,13 @@ y varias más...
   <!-- BLOG-LIST:START -->
 
 
+- [Obteniendo archivos por medio de WhatsApp (y agencia)](https://yamilayma.github.io/proyectos/plataforma-bots-whatsapp/diario/03-descargas-de-archivos/) - 🗓️ <i>06/04/2026</i>
+
 - [El sistema de identidades](https://yamilayma.github.io/proyectos/plataforma-bots-whatsapp/diario/02-sistema-de-identidades/) - 🗓️ <i>04/04/2026</i>
 
 - [Un inicio inesperado](https://yamilayma.github.io/proyectos/plataforma-bots-whatsapp/diario/01-inicio/) - 🗓️ <i>03/04/2026</i>
 
 - [Mejorando el repositorio de Enlaces para Desarrolladores](https://yamilayma.github.io/blog/dev/enlaces-para-desarrolladores/) - 🗓️ <i>19/03/2026</i>
-
-- [> Mejoras en el blog](https://yamilayma.github.io/blog/mejora-contenido/) - 🗓️ <i>06/02/2026</i>
 <!-- BLOG-LIST:END -->
 </details>
 
