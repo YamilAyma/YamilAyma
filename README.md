@@ -173,6 +173,22 @@ y varias más...
 <table>
   <tr>
     <td align="center" width="50%">
+      <a href="https://yamilayma.github.io/posts/automatizacion/erosion-procesos/">
+        <img src="https://yamilayma.github.io/_astro/erosion-procesos.wVdcUH4Y.png" alt="La Erosión de procesos digitales" width="310" style="border-radius:10px;" />
+        <br />
+        <sub>La Erosión de procesos digitales</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://yamilayma.github.io/posts/automatizacion/observabilidad/">
+        <img src="https://yamilayma.github.io/_astro/observabilidad.CCFtDHR8.png" alt="Observabilidad" width="310" style="border-radius:10px;" />
+        <br />
+        <sub>Observabilidad</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/automatizacion/cambio-contexto/">
         <img src="https://yamilayma.github.io/_astro/cambio-contexto.CXJZ_r0a.png" alt="El costo invisible del cambio de contexto" width="310" style="border-radius:10px;" />
         <br />
@@ -187,22 +203,6 @@ y varias más...
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://yamilayma.github.io/posts/automatizacion/nuevos-roles/">
-        <img src="https://yamilayma.github.io/_astro/nuevos-roles.BUjwMkEP.png" alt="Automatización: Una Herramienta para la Inclusión Laboral" width="310" style="border-radius:10px;" />
-        <br />
-        <sub>Automatización: Una Herramienta para la Inclusión Laboral</sub>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://yamilayma.github.io/posts/automatizacion/palabras-claves/">
-        <img src="https://yamilayma.github.io/_astro/palabras-claves.y4m_7q_S.png" alt="La Gramática de la Automatización: Sujetos, Verbos y Predicados" width="310" style="border-radius:10px;" />
-        <br />
-        <sub>La Gramática de la Automatización: Sujetos, Verbos y Predicados</sub>
-      </a>
-    </td>
-  </tr>
 </table>
 <!-- POST-LIST:END -->
 </details>
@@ -213,13 +213,13 @@ y varias más...
   <!-- BLOG-LIST:START -->
 
 
+- [Centralizar los recursos](https://yamilayma.github.io/proyectos/plataforma-bots-whatsapp/diario/04-biblioteca-recursos/) - 🗓️ <i>07/04/2026</i>
+
 - [Obteniendo archivos por medio de WhatsApp (y agencia)](https://yamilayma.github.io/proyectos/plataforma-bots-whatsapp/diario/03-descargas-de-archivos/) - 🗓️ <i>06/04/2026</i>
 
 - [El sistema de identidades](https://yamilayma.github.io/proyectos/plataforma-bots-whatsapp/diario/02-sistema-de-identidades/) - 🗓️ <i>04/04/2026</i>
 
 - [Un inicio inesperado](https://yamilayma.github.io/proyectos/plataforma-bots-whatsapp/diario/01-inicio/) - 🗓️ <i>03/04/2026</i>
-
-- [Mejorando el repositorio de Enlaces para Desarrolladores](https://yamilayma.github.io/blog/dev/enlaces-para-desarrolladores/) - 🗓️ <i>19/03/2026</i>
 <!-- BLOG-LIST:END -->
 </details>
 
