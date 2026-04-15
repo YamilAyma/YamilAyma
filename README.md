@@ -213,13 +213,13 @@ y varias más...
   <!-- BLOG-LIST:START -->
 
 
+- [Un lugar para compartir](https://yamilayma.github.io/proyectos/notebooklm-prompt-styles/diario/01-inicio/) - 🗓️ <i>13/04/2026</i>
+
+- [De marcadores a un repositorio público](https://yamilayma.github.io/proyectos/enlaces-para-desarrolladores/diario/01-marcadores-a-repositorio-publico/) - 🗓️ <i>12/04/2026</i>
+
 - [Historia del sitio](https://yamilayma.github.io/proyectos/blog-personal/diario/01-inicio/) - 🗓️ <i>08/04/2026</i>
 
 - [Centralizar los recursos](https://yamilayma.github.io/proyectos/plataforma-bots-whatsapp/diario/04-biblioteca-recursos/) - 🗓️ <i>07/04/2026</i>
-
-- [Obteniendo archivos por medio de WhatsApp (y agencia)](https://yamilayma.github.io/proyectos/plataforma-bots-whatsapp/diario/03-descargas-de-archivos/) - 🗓️ <i>06/04/2026</i>
-
-- [El sistema de identidades](https://yamilayma.github.io/proyectos/plataforma-bots-whatsapp/diario/02-sistema-de-identidades/) - 🗓️ <i>04/04/2026</i>
 <!-- BLOG-LIST:END -->
 </details>
 
