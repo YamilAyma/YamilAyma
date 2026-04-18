@@ -173,12 +173,21 @@ y varias más...
 <table>
   <tr>
     <td align="center" width="50%">
+      <a href="https://yamilayma.github.io/posts/automatizacion/a-b-analisis/">
+        <img src="https://yamilayma.github.io/_astro/a-b-analisis.B8SJCSRX.png" alt="Automatización Inteligente: El mito del todo o nada" width="310" style="border-radius:10px;" />
+        <br />
+        <sub>Automatización Inteligente: El mito del todo o nada</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/automatizacion/crecer-sin-saturar/">
         <img src="https://yamilayma.github.io/_astro/crecer-sin-saturar.B7rASmbi.png" alt="Crecer sin saturar" width="310" style="border-radius:10px;" />
         <br />
         <sub>Crecer sin saturar</sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/automatizacion/erosion-procesos/">
         <img src="https://yamilayma.github.io/_astro/erosion-procesos.wVdcUH4Y.png" alt="La Erosión de procesos digitales" width="310" style="border-radius:10px;" />
@@ -186,20 +195,11 @@ y varias más...
         <sub>La Erosión de procesos digitales</sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/automatizacion/observabilidad/">
         <img src="https://yamilayma.github.io/_astro/observabilidad.CCFtDHR8.png" alt="Observabilidad" width="310" style="border-radius:10px;" />
         <br />
         <sub>Observabilidad</sub>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://yamilayma.github.io/posts/automatizacion/cambio-contexto/">
-        <img src="https://yamilayma.github.io/_astro/cambio-contexto.CXJZ_r0a.png" alt="El costo invisible del cambio de contexto" width="310" style="border-radius:10px;" />
-        <br />
-        <sub>El costo invisible del cambio de contexto</sub>
       </a>
     </td>
   </tr>
