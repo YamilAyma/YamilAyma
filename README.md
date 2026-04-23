@@ -173,21 +173,12 @@ y varias más...
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://yamilayma.github.io/posts/automatizacion/vendor-lockin/">
-        <img src="https://yamilayma.github.io/_astro/vendor-lockin.DpzeIEeS.png" alt="El Riesgo del Vendor Lock-in: No dejes que tu lógica quede atrapada" width="310" style="border-radius:10px;" />
+      <a href="https://yamilayma.github.io/posts/automatizacion/centro-de-excelencia/">
+        <img src="https://yamilayma.github.io/_astro/centro-de-excelencia.CaVkJv1j.png" alt="El Centro de Excelencia: Tu motor de eficiencia escalable" width="310" style="border-radius:10px;" />
         <br />
-        <sub>El Riesgo del Vendor Lock-in: No dejes que tu lógica quede atrapada</sub>
+        <sub>El Centro de Excelencia: Tu motor de eficiencia escalable</sub>
       </a>
     </td>
-    <td align="center" width="50%">
-      <a href="https://yamilayma.github.io/posts/automatizacion/automatizacion-zombi/">
-        <img src="https://yamilayma.github.io/_astro/automatizacion-zombi.B7b-i2IO.png" alt="Elimina las "Automatizaciones Zombi" y recupera tu presupuesto" width="310" style="border-radius:10px;" />
-        <br />
-        <sub>Elimina las "Automatizaciones Zombi" y recupera tu presupuesto</sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/automatizacion/a-b-analisis/">
         <img src="https://yamilayma.github.io/_astro/a-b-analisis.B8SJCSRX.png" alt="Automatización Inteligente: El mito del todo o nada" width="310" style="border-radius:10px;" />
@@ -195,11 +186,20 @@ y varias más...
         <sub>Automatización Inteligente: El mito del todo o nada</sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/automatizacion/crecer-sin-saturar/">
         <img src="https://yamilayma.github.io/_astro/crecer-sin-saturar.B7rASmbi.png" alt="Crecer sin saturar" width="310" style="border-radius:10px;" />
         <br />
         <sub>Crecer sin saturar</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://yamilayma.github.io/posts/automatizacion/erosion-procesos/">
+        <img src="https://yamilayma.github.io/_astro/erosion-procesos.wVdcUH4Y.png" alt="La Erosión de procesos digitales" width="310" style="border-radius:10px;" />
+        <br />
+        <sub>La Erosión de procesos digitales</sub>
       </a>
     </td>
   </tr>
