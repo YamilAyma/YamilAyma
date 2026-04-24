@@ -137,6 +137,20 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/YamilAyma/notebooklm-prompt-styles">
+          <img src="https://notebooklm-prompt-styles.vercel.app/icon.png" width="100%" alt="Logo de NotebookLM Prompt Styles" style="border-radius:10px;" />
+        </a>
+      </td>
+      <td><b>NotebookLM Prompt Styles</b></td>
+      <td>🎨 Una colección curada de estilos de diseño visual (YAML) para personalizar la generación de diapositivas en NotebookLM.</td>
+      <td align="center">
+        <a href="https://notebooklm-prompt-styles.vercel.app/">
+          <img src="https://img.shields.io/badge/-Visitar-0097b2?style=flat-square&logo=google-chrome&logoColor=white" alt="Sitio">
+        </a>
+      </td>
+    </tr>
     <!-- Duplicar la fila anterior para añadir más proyectos -->
   </tbody>
 </table>
