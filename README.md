@@ -187,33 +187,33 @@ y varias más...
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://yamilayma.github.io/posts/automatizacion/nuevos-roles/">
-        <img src="https://yamilayma.github.io/_astro/nuevos-roles.BUjwMkEP.png" alt="Automatización: Una Herramienta para la Inclusión Laboral" width="310" style="border-radius:10px;" />
+      <a href="https://yamilayma.github.io/posts/automatizacion/sobreingenieria/">
+        <img src="https://yamilayma.github.io/_astro/sobreingenieria.Dw84X6JS.png" alt="Sobreingeniería: ¿Realmente necesitas esa IA personalizada?" width="310" style="border-radius:10px;" />
         <br />
-        <sub>Automatización: Una Herramienta para la Inclusión Laboral</sub>
+        <sub>Sobreingeniería: ¿Realmente necesitas esa IA personalizada?</sub>
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://yamilayma.github.io/posts/automatizacion/palabras-claves/">
-        <img src="https://yamilayma.github.io/_astro/palabras-claves.y4m_7q_S.png" alt="La Gramática de la Automatización: Sujetos, Verbos y Predicados" width="310" style="border-radius:10px;" />
+      <a href="https://yamilayma.github.io/posts/automatizacion/centro-de-excelencia/">
+        <img src="https://yamilayma.github.io/_astro/centro-de-excelencia.CaVkJv1j.png" alt="El Centro de Excelencia: Tu motor de eficiencia escalable" width="310" style="border-radius:10px;" />
         <br />
-        <sub>La Gramática de la Automatización: Sujetos, Verbos y Predicados</sub>
+        <sub>El Centro de Excelencia: Tu motor de eficiencia escalable</sub>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://yamilayma.github.io/posts/automatizacion/analisis-previo/">
-        <img src="https://yamilayma.github.io/_astro/analisis-previo.BPfuPyDq.png" alt="Arqueología de Procesos: Cuestionar antes de Automatizar" width="310" style="border-radius:10px;" />
+      <a href="https://yamilayma.github.io/posts/automatizacion/a-b-analisis/">
+        <img src="https://yamilayma.github.io/_astro/a-b-analisis.B8SJCSRX.png" alt="Automatización Inteligente: El mito del todo o nada" width="310" style="border-radius:10px;" />
         <br />
-        <sub>Arqueología de Procesos: Cuestionar antes de Automatizar</sub>
+        <sub>Automatización Inteligente: El mito del todo o nada</sub>
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://yamilayma.github.io/posts/automatizacion/error-humano/">
-        <img src="https://yamilayma.github.io/_astro/error-humano.gU-ONEAp.png" alt="El error humano en la automatización: ¿Culpa o oportunidad?" width="310" style="border-radius:10px;" />
+      <a href="https://yamilayma.github.io/posts/automatizacion/crecer-sin-saturar/">
+        <img src="https://yamilayma.github.io/_astro/crecer-sin-saturar.B7rASmbi.png" alt="Crecer sin saturar" width="310" style="border-radius:10px;" />
         <br />
-        <sub>El error humano en la automatización: ¿Culpa o oportunidad?</sub>
+        <sub>Crecer sin saturar</sub>
       </a>
     </td>
   </tr>
@@ -225,13 +225,15 @@ y varias más...
   <summary><b>Entradas recientes del blog</b></summary>
   <br />
   <!-- BLOG-LIST:START -->
-- [Mejorando el repositorio de Enlaces para Desarrolladores](https://yamilayma.github.io/blog/dev/enlaces-para-desarrolladores/) &nbsp;&nbsp; 🗓️ <i>19/03/2026</i>
 
-- [> Mejoras en el blog](https://yamilayma.github.io/blog/mejora-contenido/) &nbsp;&nbsp; 🗓️ <i>06/02/2026</i>
 
-- [[Recurso] - Documentando Microservicios con PlantUML. De horas a segundos](https://yamilayma.github.io/blog/recursos/docs-plantuml/) &nbsp;&nbsp; 🗓️ <i>22/01/2026</i>
+- [Un lugar para compartir](https://yamilayma.github.io/proyectos/notebooklm-prompt-styles/diario/01-inicio/) - 🗓️ <i>13/04/2026</i>
 
-- [Personalizando Google AI Studio con Stylus](https://yamilayma.github.io/blog/dev/custom-googleaistudio-with-stylus/) &nbsp;&nbsp; 🗓️ <i>05/01/2026</i>
+- [De marcadores a un repositorio público](https://yamilayma.github.io/proyectos/enlaces-para-desarrolladores/diario/01-marcadores-a-repositorio-publico/) - 🗓️ <i>12/04/2026</i>
+
+- [Historia del sitio](https://yamilayma.github.io/proyectos/blog-personal/diario/01-inicio/) - 🗓️ <i>08/04/2026</i>
+
+- [Centralizar los recursos](https://yamilayma.github.io/proyectos/plataforma-bots-whatsapp/diario/04-biblioteca-recursos/) - 🗓️ <i>07/04/2026</i>
 <!-- BLOG-LIST:END -->
 </details>
 
