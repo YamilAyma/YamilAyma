@@ -187,12 +187,21 @@ y varias más...
 <table>
   <tr>
     <td align="center" width="50%">
+      <a href="https://yamilayma.github.io/posts/automatizacion/vendor-lockin/">
+        <img src="https://yamilayma.github.io/_astro/vendor-lockin.DpzeIEeS.png" alt="El Riesgo del Vendor Lock-in: No dejes que tu lógica quede atrapada" width="310" style="border-radius:10px;" />
+        <br />
+        <sub>El Riesgo del Vendor Lock-in: No dejes que tu lógica quede atrapada</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/automatizacion/datos-sucios/">
         <img src="https://yamilayma.github.io/_astro/datos-sucios.Ctc--Ckh.png" alt="Datos Sucios: El gran saboteador de la automatización" width="310" style="border-radius:10px;" />
         <br />
         <sub>Datos Sucios: El gran saboteador de la automatización</sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/automatizacion/centro-de-excelencia/">
         <img src="https://yamilayma.github.io/_astro/centro-de-excelencia.CaVkJv1j.png" alt="El Centro de Excelencia: Tu motor de eficiencia escalable" width="310" style="border-radius:10px;" />
@@ -200,20 +209,11 @@ y varias más...
         <sub>El Centro de Excelencia: Tu motor de eficiencia escalable</sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/automatizacion/a-b-analisis/">
         <img src="https://yamilayma.github.io/_astro/a-b-analisis.B8SJCSRX.png" alt="Automatización Inteligente: El mito del todo o nada" width="310" style="border-radius:10px;" />
         <br />
         <sub>Automatización Inteligente: El mito del todo o nada</sub>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://yamilayma.github.io/posts/automatizacion/crecer-sin-saturar/">
-        <img src="https://yamilayma.github.io/_astro/crecer-sin-saturar.B7rASmbi.png" alt="Crecer sin saturar" width="310" style="border-radius:10px;" />
-        <br />
-        <sub>Crecer sin saturar</sub>
       </a>
     </td>
   </tr>
@@ -227,13 +227,13 @@ y varias más...
   <!-- BLOG-LIST:START -->
 
 
+- [¡Presentando a todos!](https://yamilayma.github.io/proyectos/notebooklm-prompt-styles/diario/03-presentacion/) - 🗓️ <i>24/04/2026</i>
+
+- [Rostro digital para el proyecto](https://yamilayma.github.io/proyectos/notebooklm-prompt-styles/diario/02-pagina-web/) - 🗓️ <i>23/04/2026</i>
+
 - [[Tutorial] - Sitemap Plano en Astro: El truco para Google Search Console](https://yamilayma.github.io/blog/tutorial/sitemap-plano-astro/) - 🗓️ <i>22/04/2026</i>
 
 - [Un lugar para compartir](https://yamilayma.github.io/proyectos/notebooklm-prompt-styles/diario/01-inicio/) - 🗓️ <i>13/04/2026</i>
-
-- [De marcadores a un repositorio público](https://yamilayma.github.io/proyectos/enlaces-para-desarrolladores/diario/01-marcadores-a-repositorio-publico/) - 🗓️ <i>12/04/2026</i>
-
-- [Historia del sitio](https://yamilayma.github.io/proyectos/blog-personal/diario/01-inicio/) - 🗓️ <i>08/04/2026</i>
 <!-- BLOG-LIST:END -->
 </details>
 
