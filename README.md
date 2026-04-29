@@ -187,12 +187,21 @@ y varias más...
 <table>
   <tr>
     <td align="center" width="50%">
+      <a href="https://yamilayma.github.io/posts/automatizacion/automatizacion-zombi/">
+        <img src="https://yamilayma.github.io/_astro/automatizacion-zombi.B7b-i2IO.png" alt="Elimina las "Automatizaciones Zombi" y recupera tu presupuesto" width="310" style="border-radius:10px;" />
+        <br />
+        <sub>Elimina las "Automatizaciones Zombi" y recupera tu presupuesto</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/automatizacion/vendor-lockin/">
         <img src="https://yamilayma.github.io/_astro/vendor-lockin.DpzeIEeS.png" alt="El Riesgo del Vendor Lock-in: No dejes que tu lógica quede atrapada" width="310" style="border-radius:10px;" />
         <br />
         <sub>El Riesgo del Vendor Lock-in: No dejes que tu lógica quede atrapada</sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/automatizacion/datos-sucios/">
         <img src="https://yamilayma.github.io/_astro/datos-sucios.Ctc--Ckh.png" alt="Datos Sucios: El gran saboteador de la automatización" width="310" style="border-radius:10px;" />
@@ -200,20 +209,11 @@ y varias más...
         <sub>Datos Sucios: El gran saboteador de la automatización</sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/automatizacion/centro-de-excelencia/">
         <img src="https://yamilayma.github.io/_astro/centro-de-excelencia.CaVkJv1j.png" alt="El Centro de Excelencia: Tu motor de eficiencia escalable" width="310" style="border-radius:10px;" />
         <br />
         <sub>El Centro de Excelencia: Tu motor de eficiencia escalable</sub>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://yamilayma.github.io/posts/automatizacion/a-b-analisis/">
-        <img src="https://yamilayma.github.io/_astro/a-b-analisis.B8SJCSRX.png" alt="Automatización Inteligente: El mito del todo o nada" width="310" style="border-radius:10px;" />
-        <br />
-        <sub>Automatización Inteligente: El mito del todo o nada</sub>
       </a>
     </td>
   </tr>
