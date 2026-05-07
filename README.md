@@ -187,12 +187,21 @@ y varias más...
 <table>
   <tr>
     <td align="center" width="50%">
+      <a href="https://yamilayma.github.io/posts/enlaces-para-desarrolladores/recursos-2026-05-06/">
+        <img src="https://yamilayma.github.io/_astro/recursos-2026-05-06.CtU0ezT3.png" alt="Recursos para Desarrolladores - 2026-05-06" width="310" style="border-radius:10px;" />
+        <br />
+        <sub>Recursos para Desarrolladores - 2026-05-06</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/automatizacion/iceberg-costos/">
         <img src="https://yamilayma.github.io/_astro/iceberg-costos.ZHV5XWHa.png" alt="No dejes que los costos ocultos de la automatización te sorprendan. Conoce la..." width="310" style="border-radius:10px;" />
         <br />
         <sub>No dejes que los costos ocultos de la automatización te sorprendan. Conoce la...</sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/automatizacion/sobreingenieria/">
         <img src="https://yamilayma.github.io/_astro/sobreingenieria.Dw84X6JS.png" alt="Sobreingeniería: ¿Realmente necesitas esa IA personalizada?" width="310" style="border-radius:10px;" />
@@ -200,20 +209,11 @@ y varias más...
         <sub>Sobreingeniería: ¿Realmente necesitas esa IA personalizada?</sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/automatizacion/automatizacion-zombi/">
         <img src="https://yamilayma.github.io/_astro/automatizacion-zombi.B7b-i2IO.png" alt="Elimina las "Automatizaciones Zombi" y recupera tu presupuesto" width="310" style="border-radius:10px;" />
         <br />
         <sub>Elimina las "Automatizaciones Zombi" y recupera tu presupuesto</sub>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://yamilayma.github.io/posts/automatizacion/vendor-lockin/">
-        <img src="https://yamilayma.github.io/_astro/vendor-lockin.DpzeIEeS.png" alt="El Riesgo del Vendor Lock-in: No dejes que tu lógica quede atrapada" width="310" style="border-radius:10px;" />
-        <br />
-        <sub>El Riesgo del Vendor Lock-in: No dejes que tu lógica quede atrapada</sub>
       </a>
     </td>
   </tr>
@@ -227,13 +227,13 @@ y varias más...
   <!-- BLOG-LIST:START -->
 
 
+- [Un simple pero amigable bot de recursos para devs](https://yamilayma.github.io/blog/bot-de-recursos-para-devs/) - 🗓️ <i>05/05/2026</i>
+
 - [¡100 estilos para NotebookLM! 📁](https://yamilayma.github.io/proyectos/notebooklm-prompt-styles/diario/04-cien-estilos/) - 🗓️ <i>01/05/2026</i>
 
+- [Simplemente resúmenes](https://yamilayma.github.io/proyectos/ai-cheatsheets/diario/01-resumen/) - 🗓️ <i>28/04/2026</i>
+
 - [¡Presentando a todos!](https://yamilayma.github.io/proyectos/notebooklm-prompt-styles/diario/03-presentacion/) - 🗓️ <i>24/04/2026</i>
-
-- [Rostro digital para el proyecto](https://yamilayma.github.io/proyectos/notebooklm-prompt-styles/diario/02-pagina-web/) - 🗓️ <i>23/04/2026</i>
-
-- [[Tutorial] - Sitemap Plano en Astro: El truco para Google Search Console](https://yamilayma.github.io/blog/tutorial/sitemap-plano-astro/) - 🗓️ <i>22/04/2026</i>
 <!-- BLOG-LIST:END -->
 </details>
 
