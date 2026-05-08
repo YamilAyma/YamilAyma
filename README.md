@@ -187,12 +187,21 @@ y varias más...
 <table>
   <tr>
     <td align="center" width="50%">
+      <a href="https://yamilayma.github.io/posts/enlaces-para-desarrolladores/recursos-2026-05-07/">
+        <img src="https://yamilayma.github.io/_astro/recursos-2026-05-07.B68Vswmh.png" alt="Recursos para Desarrolladores - 2026-05-07" width="310" style="border-radius:10px;" />
+        <br />
+        <sub>Recursos para Desarrolladores - 2026-05-07</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/enlaces-para-desarrolladores/recursos-2026-05-06/">
         <img src="https://yamilayma.github.io/_astro/recursos-2026-05-06.CtU0ezT3.png" alt="Recursos para Desarrolladores - 2026-05-06" width="310" style="border-radius:10px;" />
         <br />
         <sub>Recursos para Desarrolladores - 2026-05-06</sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/automatizacion/iceberg-costos/">
         <img src="https://yamilayma.github.io/_astro/iceberg-costos.ZHV5XWHa.png" alt="No dejes que los costos ocultos de la automatización te sorprendan. Conoce la..." width="310" style="border-radius:10px;" />
@@ -200,20 +209,11 @@ y varias más...
         <sub>No dejes que los costos ocultos de la automatización te sorprendan. Conoce la...</sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/automatizacion/sobreingenieria/">
         <img src="https://yamilayma.github.io/_astro/sobreingenieria.Dw84X6JS.png" alt="Sobreingeniería: ¿Realmente necesitas esa IA personalizada?" width="310" style="border-radius:10px;" />
         <br />
         <sub>Sobreingeniería: ¿Realmente necesitas esa IA personalizada?</sub>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://yamilayma.github.io/posts/automatizacion/automatizacion-zombi/">
-        <img src="https://yamilayma.github.io/_astro/automatizacion-zombi.B7b-i2IO.png" alt="Elimina las "Automatizaciones Zombi" y recupera tu presupuesto" width="310" style="border-radius:10px;" />
-        <br />
-        <sub>Elimina las "Automatizaciones Zombi" y recupera tu presupuesto</sub>
       </a>
     </td>
   </tr>
