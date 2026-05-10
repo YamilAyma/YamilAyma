@@ -187,12 +187,21 @@ y varias más...
 <table>
   <tr>
     <td align="center" width="50%">
+      <a href="https://yamilayma.github.io/posts/enlaces-para-desarrolladores/recursos-2026-05-09/">
+        <img src="https://yamilayma.github.io/_astro/recursos-2026-05-09.DcYUGT8G.png" alt="Recursos para Desarrolladores - 2026-05-09" width="310" style="border-radius:10px;" />
+        <br />
+        <sub>Recursos para Desarrolladores - 2026-05-09</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/enlaces-para-desarrolladores/recursos-2026-05-08/">
         <img src="https://yamilayma.github.io/_astro/recursos-2026-05-08.rbNqvTRr.png" alt="Recursos para Desarrolladores - 2026-05-08" width="310" style="border-radius:10px;" />
         <br />
         <sub>Recursos para Desarrolladores - 2026-05-08</sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/enlaces-para-desarrolladores/recursos-2026-05-07/">
         <img src="https://yamilayma.github.io/_astro/recursos-2026-05-07.B68Vswmh.png" alt="Recursos para Desarrolladores - 2026-05-07" width="310" style="border-radius:10px;" />
@@ -200,20 +209,11 @@ y varias más...
         <sub>Recursos para Desarrolladores - 2026-05-07</sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/enlaces-para-desarrolladores/recursos-2026-05-06/">
         <img src="https://yamilayma.github.io/_astro/recursos-2026-05-06.CtU0ezT3.png" alt="Recursos para Desarrolladores - 2026-05-06" width="310" style="border-radius:10px;" />
         <br />
         <sub>Recursos para Desarrolladores - 2026-05-06</sub>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://yamilayma.github.io/posts/automatizacion/iceberg-costos/">
-        <img src="https://yamilayma.github.io/_astro/iceberg-costos.ZHV5XWHa.png" alt="No dejes que los costos ocultos de la automatización te sorprendan. Conoce la..." width="310" style="border-radius:10px;" />
-        <br />
-        <sub>No dejes que los costos ocultos de la automatización te sorprendan. Conoce la...</sub>
       </a>
     </td>
   </tr>
