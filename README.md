@@ -187,12 +187,21 @@ y varias más...
 <table>
   <tr>
     <td align="center" width="50%">
+      <a href="https://yamilayma.github.io/posts/enlaces-para-desarrolladores/recursos-2026-05-15/">
+        <img src="https://yamilayma.github.io/_astro/recursos-2026-05-15.Bvf4WxPb.png" alt="Recursos para Desarrolladores - 2026-05-15" width="310" style="border-radius:10px;" />
+        <br />
+        <sub>Recursos para Desarrolladores - 2026-05-15</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/enlaces-para-desarrolladores/recursos-2026-05-14/">
         <img src="https://yamilayma.github.io/_astro/recursos-2026-05-14.B7GyZ82I.png" alt="Recursos para Desarrolladores - 2026-05-14" width="310" style="border-radius:10px;" />
         <br />
         <sub>Recursos para Desarrolladores - 2026-05-14</sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/enlaces-para-desarrolladores/recursos-2026-05-13/">
         <img src="https://yamilayma.github.io/_astro/recursos-2026-05-13.D3j45obn.png" alt="Recursos para Desarrolladores - 2026-05-13" width="310" style="border-radius:10px;" />
@@ -200,20 +209,11 @@ y varias más...
         <sub>Recursos para Desarrolladores - 2026-05-13</sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/enlaces-para-desarrolladores/recursos-2026-05-12/">
         <img src="https://yamilayma.github.io/_astro/recursos-2026-05-12.Dz7m-EOx.png" alt="Recursos para Desarrolladores - 2026-05-12" width="310" style="border-radius:10px;" />
         <br />
         <sub>Recursos para Desarrolladores - 2026-05-12</sub>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://yamilayma.github.io/posts/enlaces-para-desarrolladores/recursos-2026-05-11/">
-        <img src="https://yamilayma.github.io/_astro/recursos-2026-05-11.D9XE6YLa.png" alt="Recursos para Desarrolladores - 2026-05-11" width="310" style="border-radius:10px;" />
-        <br />
-        <sub>Recursos para Desarrolladores - 2026-05-11</sub>
       </a>
     </td>
   </tr>
@@ -227,13 +227,13 @@ y varias más...
   <!-- BLOG-LIST:START -->
 
 
+- [Iconos con estilo aqua](https://yamilayma.github.io/proyectos/aqua-icons/diario/01-aqua/) - 🗓️ <i>16/05/2026</i>
+
+- [Una nueva vestimenta para el sitio](https://yamilayma.github.io/proyectos/ai-cheatsheets/diario/02-aqua-style/) - 🗓️ <i>15/05/2026</i>
+
 - [Un simple pero amigable bot de recursos para devs](https://yamilayma.github.io/blog/bot-de-recursos-para-devs/) - 🗓️ <i>05/05/2026</i>
 
 - [¡100 estilos para NotebookLM! 📁](https://yamilayma.github.io/proyectos/notebooklm-prompt-styles/diario/04-cien-estilos/) - 🗓️ <i>01/05/2026</i>
-
-- [Simplemente resúmenes](https://yamilayma.github.io/proyectos/ai-cheatsheets/diario/01-resumen/) - 🗓️ <i>28/04/2026</i>
-
-- [¡Presentando a todos!](https://yamilayma.github.io/proyectos/notebooklm-prompt-styles/diario/03-presentacion/) - 🗓️ <i>24/04/2026</i>
 <!-- BLOG-LIST:END -->
 </details>
 
