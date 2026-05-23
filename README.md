@@ -187,12 +187,21 @@ y varias más...
 <table>
   <tr>
     <td align="center" width="50%">
+      <a href="https://yamilayma.github.io/posts/enlaces-para-desarrolladores/recursos-2026-05-22/">
+        <img src="https://yamilayma.github.io/_astro/recursos-2026-05-22.DAPuNRzt.png" alt="Recursos para Desarrolladores - 2026-05-22" width="310" style="border-radius:10px;" />
+        <br />
+        <sub>Recursos para Desarrolladores - 2026-05-22</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/enlaces-para-desarrolladores/recursos-2026-05-21/">
         <img src="https://yamilayma.github.io/_astro/recursos-2026-05-21.huXr8Sok.png" alt="Recursos para Desarrolladores - 2026-05-21" width="310" style="border-radius:10px;" />
         <br />
         <sub>Recursos para Desarrolladores - 2026-05-21</sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/enlaces-para-desarrolladores/recursos-2026-05-20/">
         <img src="https://yamilayma.github.io/_astro/recursos-2026-05-20.DzTtYSje.png" alt="Recursos para Desarrolladores - 2026-05-20" width="310" style="border-radius:10px;" />
@@ -200,20 +209,11 @@ y varias más...
         <sub>Recursos para Desarrolladores - 2026-05-20</sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/enlaces-para-desarrolladores/recursos-2026-05-15/">
         <img src="https://yamilayma.github.io/_astro/recursos-2026-05-15.Bvf4WxPb.png" alt="Recursos para Desarrolladores - 2026-05-15" width="310" style="border-radius:10px;" />
         <br />
         <sub>Recursos para Desarrolladores - 2026-05-15</sub>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://yamilayma.github.io/posts/enlaces-para-desarrolladores/recursos-2026-05-14/">
-        <img src="https://yamilayma.github.io/_astro/recursos-2026-05-14.B7GyZ82I.png" alt="Recursos para Desarrolladores - 2026-05-14" width="310" style="border-radius:10px;" />
-        <br />
-        <sub>Recursos para Desarrolladores - 2026-05-14</sub>
       </a>
     </td>
   </tr>
