@@ -83,6 +83,20 @@
   <tbody>
     <tr>
       <td align="center">
+        <a href="https://github.com/YamilAyma/cozy-badges">
+          <img src="https://raw.githubusercontent.com/YamilAyma/cozy-badges/main/logo.png" width="100%" alt="Banner de Cozy Badges, colección de badges estéticos" style="border-radius:10px;" />
+        </a>
+      </td>
+      <td><b>Cozy Badges</b></td>
+      <td>🎨 Una colección curada de badges vectoriales (SVG) simples, redondeados y estéticos para decorar perfiles de GitHub, portafolios y READMEs de proyectos.</td>
+      <td align="center">
+        <a href="https://github.com/YamilAyma/cozy-badges">
+          <img src="https://img.shields.io/badge/-Visitar-0097b2?style=flat-square&logo=google-chrome&logoColor=white" alt="Sitio">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
         <a href="https://github.com/YamilAyma/enlaces-para-desarrolladores">
           <img src="https://enlaces-para-desarrolladores.netlify.app/logo.png" width="100%" alt="Logo de Enlaces para Programadores, es un clip" style="border-radius:10px;" />
         </a>
@@ -112,7 +126,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/YamilAyma/AI-Cheatsheets">
-          <img src="https://github.com/YamilAyma/AI-Cheatsheets/blob/main/default-og-image.png?raw=true" width="100%" alt="Proyecto 1" style="border-radius:10px;" />
+          <img src="https://ai-cheatsheets.vercel.app/default-og-image.png" width="100%" alt="Proyecto 1" style="border-radius:10px;" />
         </a>
       </td>
       <td><b>AI Cheatsheets</b></td>
@@ -159,24 +173,24 @@
 
 ### Tecnologías y herramientas que uso
 
-![Astro](https://ziadoua.github.io/m3-Markdown-Badges/badges/Astro/astro2.svg)
-![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
-![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
+![Astro](https://cdn.jsdelivr.net/gh/yamilayma/cozy-badges@main/svg/astro.svg)
+![HTML5](https://cdn.jsdelivr.net/gh/yamilayma/cozy-badges@main/svg/html5.svg)
+![TypeScript](https://cdn.jsdelivr.net/gh/yamilayma/cozy-badges@main/svg/typescript.svg)
 ![Netlify](https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify1.svg)
-![VisualStudioCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
-![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
-![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg)
-![Javascript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg)
-![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
+![VS Code](https://cdn.jsdelivr.net/gh/yamilayma/cozy-badges@main/svg/vscode.svg)
+![Python](https://cdn.jsdelivr.net/gh/yamilayma/cozy-badges@main/svg/python.svg)
+![Java](https://cdn.jsdelivr.net/gh/yamilayma/cozy-badges@main/svg/java.svg)
+![JavaScript](https://cdn.jsdelivr.net/gh/yamilayma/cozy-badges@main/svg/javascript.svg)
+![Markdown](https://cdn.jsdelivr.net/gh/yamilayma/cozy-badges@main/svg/markdown.svg)
 ![MySQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg)
 ![NodeJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg)
-![PostgreSQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg)
-![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg)
-![SQLite](https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite2.svg)
-![Supabase](https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase1.svg)
-![TailwindCSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
+![PostgreSQL](https://cdn.jsdelivr.net/gh/yamilayma/cozy-badges@main/svg/postgresql.svg)
+![React](https://cdn.jsdelivr.net/gh/yamilayma/cozy-badges@main/svg/react.svg)
+![SQLite](https://cdn.jsdelivr.net/gh/yamilayma/cozy-badges@main/svg/sqlite.svg)
+![Supabase](https://cdn.jsdelivr.net/gh/yamilayma/cozy-badges@main/svg/supabase.svg)
+![TailwindCSS](https://cdn.jsdelivr.net/gh/yamilayma/cozy-badges@main/svg/tailwindcss.svg)
 ![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)
-![Vercel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg)
+![Vercel](https://cdn.jsdelivr.net/gh/yamilayma/cozy-badges@main/svg/vercel.svg)
 
 y varias más...
 
@@ -226,26 +240,17 @@ y varias más...
   <br />
   <!-- BLOG-LIST:START -->
 
+- [Iconos con estilo aqua](https://yamilayma.github.io/proyectos/aqua-icons/diario/01-aqua/) - 🗓️ `<i>`16/05/2026 `</i>`
+- [Una nueva vestimenta para el sitio](https://yamilayma.github.io/proyectos/ai-cheatsheets/diario/02-aqua-style/) - 🗓️ `<i>`15/05/2026 `</i>`
+- [Un simple pero amigable bot de recursos para devs](https://yamilayma.github.io/blog/bot-de-recursos-para-devs/) - 🗓️ `<i>`05/05/2026 `</i>`
+- [¡100 estilos para NotebookLM! 📁](https://yamilayma.github.io/proyectos/notebooklm-prompt-styles/diario/04-cien-estilos/) - 🗓️ `<i>`01/05/2026 `</i>`
 
-- [Iconos con estilo aqua](https://yamilayma.github.io/proyectos/aqua-icons/diario/01-aqua/) - 🗓️ <i>16/05/2026</i>
-
-- [Una nueva vestimenta para el sitio](https://yamilayma.github.io/proyectos/ai-cheatsheets/diario/02-aqua-style/) - 🗓️ <i>15/05/2026</i>
-
-- [Un simple pero amigable bot de recursos para devs](https://yamilayma.github.io/blog/bot-de-recursos-para-devs/) - 🗓️ <i>05/05/2026</i>
-
-- [¡100 estilos para NotebookLM! 📁](https://yamilayma.github.io/proyectos/notebooklm-prompt-styles/diario/04-cien-estilos/) - 🗓️ <i>01/05/2026</i>
 <!-- BLOG-LIST:END -->
+
 </details>
 
 ### Estadísticas
 
-<details closed>
-  <summary><b>Stardev.io - Estadisticas a nivel geográfico</b></summary>
-  <br />
-  <a href="https://stardev.io/developers/YamilAyma"><img alt="Check out YamilAyma's profile on stardev.io" src="https://stardev.io/developers/YamilAyma/badge/languages/global.svg" /></a>
-
-  <a href="https://stardev.io/developers/YamilAyma"><img alt="Check out YamilAyma's profile on stardev.io" src="https://stardev.io/developers/YamilAyma/badge/languages/country.svg" /></a>
-
-  <a href="https://stardev.io/developers/YamilAyma"><img alt="Check out YamilAyma's profile on stardev.io" src="https://stardev.io/developers/YamilAyma/badge/languages/locality.svg" /></a>
-
-</details>
+![](https://stardev.io/developers/YamilAyma/badge/languages/global.svg)
+![](https://stardev.io/developers/YamilAyma/badge/languages/country.svg)
+![](https://stardev.io/developers/YamilAyma/badge/languages/locality.svg)
