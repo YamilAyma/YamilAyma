@@ -37,7 +37,7 @@ def get_blog_posts(xml_content):
         pub_date = item.find("pubDate").text
         formatted_date = format_date(pub_date)
         # Usamos doble salto de línea y un guion separador
-        lines.append(f"- [{title}]({link}) - 🗓️ <i>{formatted_date}</i>")
+        lines.append(f"- [{title}]({link}) - 🗓️ {formatted_date}")
     
     return "\n\n" + "\n\n".join(lines)
 

@@ -84,7 +84,8 @@
     <tr>
       <td align="center">
         <a href="https://github.com/YamilAyma/cozy-badges">
-          <img src="https://raw.githubusercontent.com/YamilAyma/cozy-badges/main/logo.png" width="100%" alt="Banner de Cozy Badges, colección de badges estéticos" style="border-radius:10px;" />
+          <img src="https://raw.githubusercontent.com/YamilAyma/cozy-badges/main/logo
+.png" width="100%" alt="Banner de Cozy Badges, colección de badges estéticos" style="border-radius:10px;" />
         </a>
       </td>
       <td><b>Cozy Badges</b></td>
@@ -240,10 +241,10 @@ y varias más...
   <br />
   <!-- BLOG-LIST:START -->
 
-- [Iconos con estilo aqua](https://yamilayma.github.io/proyectos/aqua-icons/diario/01-aqua/) - 🗓️ `<i>`16/05/2026 `</i>`
-- [Una nueva vestimenta para el sitio](https://yamilayma.github.io/proyectos/ai-cheatsheets/diario/02-aqua-style/) - 🗓️ `<i>`15/05/2026 `</i>`
-- [Un simple pero amigable bot de recursos para devs](https://yamilayma.github.io/blog/bot-de-recursos-para-devs/) - 🗓️ `<i>`05/05/2026 `</i>`
-- [¡100 estilos para NotebookLM! 📁](https://yamilayma.github.io/proyectos/notebooklm-prompt-styles/diario/04-cien-estilos/) - 🗓️ `<i>`01/05/2026 `</i>`
+- [Iconos con estilo aqua](https://yamilayma.github.io/proyectos/aqua-icons/diario/01-aqua/) - 🗓️ `<i>`16/05/2026`</i>`
+- [Una nueva vestimenta para el sitio](https://yamilayma.github.io/proyectos/ai-cheatsheets/diario/02-aqua-style/) - 🗓️ `<i>`15/05/2026`</i>`
+- [Un simple pero amigable bot de recursos para devs](https://yamilayma.github.io/blog/bot-de-recursos-para-devs/) - 🗓️ `<i>`05/05/2026`</i>`
+- [¡100 estilos para NotebookLM! 📁](https://yamilayma.github.io/proyectos/notebooklm-prompt-styles/diario/04-cien-estilos/) - 🗓️ `<i>`01/05/2026`</i>`
 
 <!-- BLOG-LIST:END -->
 
