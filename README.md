@@ -242,13 +242,13 @@ y varias más...
   <!-- BLOG-LIST:START -->
 
 
+- [Más iconos y uniformidad](https://yamilayma.github.io/proyectos/aqua-icons/diario/02-mas-iconos/) - 🗓️ 02/06/2026
+
 - [Catálogo de prompts para prompts de ilustración con IA (Anti Gravity)](https://yamilayma.github.io/proyectos/prompt-album/diario/01-presentacion/) - 🗓️ 30/05/2026
 
 - [Más allá de la curaduría](https://yamilayma.github.io/proyectos/enlaces-para-desarrolladores/diario/02-expansion/) - 🗓️ 28/05/2026
 
 - [Comentarios personales de Cozy Badges](https://yamilayma.github.io/proyectos/cozy-badges/diario/01-presentacion/) - 🗓️ 26/05/2026
-
-- [Iconos con estilo aqua](https://yamilayma.github.io/proyectos/aqua-icons/diario/01-aqua/) - 🗓️ 16/05/2026
 <!-- BLOG-LIST:END -->
 
 </details>
