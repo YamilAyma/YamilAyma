@@ -202,12 +202,21 @@ y varias más...
 <table>
   <tr>
     <td align="center" width="50%">
+      <a href="https://yamilayma.github.io/posts/enlaces-para-desarrolladores/recursos-2026-06-05/">
+        <img src="https://yamilayma.github.io/_astro/recursos-2026-06-05.DO-1iYp4.png" alt="Recursos para Desarrolladores - 2026-06-05" width="310" style="border-radius:10px;" />
+        <br />
+        <sub>Recursos para Desarrolladores - 2026-06-05</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/cms-blog/">
         <img src="https://yamilayma.github.io/_astro/cms-blog.B1hqgD5J.png" alt="Hemos creado un pequeño CMS para nuestro blog, ánimo a crear tus propias herr..." width="310" style="border-radius:10px;" />
         <br />
         <sub>Hemos creado un pequeño CMS para nuestro blog, ánimo a crear tus propias herr...</sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/enlaces-para-desarrolladores/recursos-2026-05-29/">
         <img src="https://yamilayma.github.io/_astro/recursos-2026-05-29.BfobC1So.png" alt="Recursos para Desarrolladores - 2026-05-29" width="310" style="border-radius:10px;" />
@@ -215,20 +224,11 @@ y varias más...
         <sub>Recursos para Desarrolladores - 2026-05-29</sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/enlaces-para-desarrolladores/recursos-2026-05-28/">
         <img src="https://yamilayma.github.io/_astro/recursos-2026-05-28.CWh7tcPF.png" alt="Recursos para Desarrolladores - 2026-05-28" width="310" style="border-radius:10px;" />
         <br />
         <sub>Recursos para Desarrolladores - 2026-05-28</sub>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://yamilayma.github.io/posts/enlaces-para-desarrolladores/recursos-2026-05-27/">
-        <img src="https://yamilayma.github.io/_astro/recursos-2026-05-27.B5fv_qbX.png" alt="Recursos para Desarrolladores - 2026-05-27" width="310" style="border-radius:10px;" />
-        <br />
-        <sub>Recursos para Desarrolladores - 2026-05-27</sub>
       </a>
     </td>
   </tr>
@@ -242,13 +242,13 @@ y varias más...
   <!-- BLOG-LIST:START -->
 
 
+- [Para unificar la demanda y producción](https://yamilayma.github.io/proyectos/icon-pack-framework/diario/01-plantilla/) - 🗓️ 05/06/2026
+
 - [Más iconos y uniformidad](https://yamilayma.github.io/proyectos/aqua-icons/diario/02-mas-iconos/) - 🗓️ 02/06/2026
 
 - [Catálogo de prompts para prompts de ilustración con IA (Anti Gravity)](https://yamilayma.github.io/proyectos/prompt-album/diario/01-presentacion/) - 🗓️ 30/05/2026
 
 - [Más allá de la curaduría](https://yamilayma.github.io/proyectos/enlaces-para-desarrolladores/diario/02-expansion/) - 🗓️ 28/05/2026
-
-- [Comentarios personales de Cozy Badges](https://yamilayma.github.io/proyectos/cozy-badges/diario/01-presentacion/) - 🗓️ 26/05/2026
 <!-- BLOG-LIST:END -->
 
 </details>
