@@ -202,12 +202,21 @@ y varias más...
 <table>
   <tr>
     <td align="center" width="50%">
+      <a href="https://yamilayma.github.io/posts/enlaces-para-desarrolladores/recursos-2026-06-10/">
+        <img src="https://yamilayma.github.io/_astro/recursos-2026-06-10.DMa60c8v.png" alt="Recursos para Desarrolladores - 2026-06-10" width="310" style="border-radius:10px;" />
+        <br />
+        <sub>Recursos para Desarrolladores - 2026-06-10</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/enlaces-para-desarrolladores/recursos-2026-06-09/">
         <img src="https://yamilayma.github.io/_astro/recursos-2026-06-09.BoGADSX7.png" alt="Recursos para Desarrolladores - 2026-06-09" width="310" style="border-radius:10px;" />
         <br />
         <sub>Recursos para Desarrolladores - 2026-06-09</sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/enlaces-para-desarrolladores/recursos-2026-06-08/">
         <img src="https://yamilayma.github.io/_astro/recursos-2026-06-08.wWB4WteG.png" alt="Recursos para Desarrolladores - 2026-06-08" width="310" style="border-radius:10px;" />
@@ -215,20 +224,11 @@ y varias más...
         <sub>Recursos para Desarrolladores - 2026-06-08</sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://yamilayma.github.io/posts/enlaces-para-desarrolladores/recursos-2026-06-05/">
         <img src="https://yamilayma.github.io/_astro/recursos-2026-06-05.DO-1iYp4.png" alt="Recursos para Desarrolladores - 2026-06-05" width="310" style="border-radius:10px;" />
         <br />
         <sub>Recursos para Desarrolladores - 2026-06-05</sub>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://yamilayma.github.io/posts/cms-blog/">
-        <img src="https://yamilayma.github.io/_astro/cms-blog.B1hqgD5J.png" alt="Hemos creado un pequeño CMS para nuestro blog, ánimo a crear tus propias herr..." width="310" style="border-radius:10px;" />
-        <br />
-        <sub>Hemos creado un pequeño CMS para nuestro blog, ánimo a crear tus propias herr...</sub>
       </a>
     </td>
   </tr>
