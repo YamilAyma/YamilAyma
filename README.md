@@ -242,13 +242,13 @@ y varias más...
   <!-- BLOG-LIST:START -->
 
 
+- [Mira ese efecto, lo quiero](https://yamilayma.github.io/blog/dev/atexteffects-diario/) - 🗓️ 30/08/2026
+
+- [Aprendizajes y notas para recordar](https://yamilayma.github.io/blog/notas-junio-julio-2026/) - 🗓️ 13/08/2026
+
 - [Para unificar la demanda y producción](https://yamilayma.github.io/proyectos/icon-pack-framework/diario/01-plantilla/) - 🗓️ 05/06/2026
 
 - [Más iconos y uniformidad](https://yamilayma.github.io/proyectos/aqua-icons/diario/02-mas-iconos/) - 🗓️ 02/06/2026
-
-- [Catálogo de prompts para prompts de ilustración con IA (Anti Gravity)](https://yamilayma.github.io/proyectos/prompt-album/diario/01-presentacion/) - 🗓️ 30/05/2026
-
-- [Más allá de la curaduría](https://yamilayma.github.io/proyectos/enlaces-para-desarrolladores/diario/02-expansion/) - 🗓️ 28/05/2026
 <!-- BLOG-LIST:END -->
 
 </details>
