@@ -266,8 +266,8 @@ y varias más...
 
 </details>
 
-### Estadísticas
+<details>
+  <summary><b>Estadísticas</b></summary>
+  <br />
 
-![](https://stardev.io/developers/YamilAyma/badge/languages/global.svg)
-![](https://stardev.io/developers/YamilAyma/badge/languages/country.svg)
-![](https://stardev.io/developers/YamilAyma/badge/languages/locality.svg)
+</details>
