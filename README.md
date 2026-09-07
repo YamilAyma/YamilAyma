@@ -1,3 +1,5 @@
+ 
+
 # ¡Hola! Soy Yamil. Un gusto saludarte. ✨
 
 <a href="https://es.pinterest.com/yamilaymaing/" target="_blank">
@@ -254,14 +256,11 @@ y varias más...
   <br />
   <!-- BLOG-LIST:START -->
 
-
 - [Mira ese efecto, lo quiero](https://yamilayma.github.io/blog/dev/atexteffects-diario/) - 🗓️ 30/08/2026
-
 - [Aprendizajes y notas para recordar](https://yamilayma.github.io/blog/notas-junio-julio-2026/) - 🗓️ 13/08/2026
-
 - [Para unificar la demanda y producción](https://yamilayma.github.io/proyectos/icon-pack-framework/diario/01-plantilla/) - 🗓️ 05/06/2026
-
 - [Más iconos y uniformidad](https://yamilayma.github.io/proyectos/aqua-icons/diario/02-mas-iconos/) - 🗓️ 02/06/2026
+
 <!-- BLOG-LIST:END -->
 
 </details>
@@ -269,5 +268,7 @@ y varias más...
 <details>
   <summary><b>Estadísticas</b></summary>
   <br />
-
+   <picture>
+    <img src="/github-metrics.svg" alt="Metrics">
+  </picture>
 </details>
