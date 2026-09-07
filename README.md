@@ -165,6 +165,20 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/YamilAyma/atexteffects">
+          <img src="https://i.imgur.com/GT6qPyK.png" width="100%" alt="Logo de ATextEffects" style="border-radius:10px;" />
+        </a>
+      </td>
+      <td><b>ATextEffects</b></td>
+      <td>✨ Una colección curada de prompts para generar y reproducir efectos de textos animados en cualquier stack o herramienta de IA.</td>
+      <td align="center">
+        <a href="https://atexteffects.vercel.app/">
+          <img src="https://img.shields.io/badge/-Visitar-0097b2?style=flat-square&logo=google-chrome&logoColor=white" alt="Sitio">
+        </a>
+      </td>
+    </tr>
     <!-- Duplicar la fila anterior para añadir más proyectos -->
   </tbody>
 </table>
