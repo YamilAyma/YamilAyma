@@ -84,8 +84,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/YamilAyma/cozy-badges">
-          <img src="https://raw.githubusercontent.com/YamilAyma/cozy-badges/main/logo
-.png" width="100%" alt="Banner de Cozy Badges, colección de badges estéticos" style="border-radius:10px;" />
+          <img src="https://cozy-badges.vercel.app/public/omnibadge/idle.svg" width="100%" alt="Banner de Cozy Badges, colección de badges estéticos" style="border-radius:10px;" />
         </a>
       </td>
       <td><b>Cozy Badges</b></td>
