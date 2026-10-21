@@ -207,6 +207,7 @@
 ![TailwindCSS](https://cdn.jsdelivr.net/gh/yamilayma/cozy-badges@main/svg/tailwindcss.svg)
 ![Telegram](https://cdn.jsdelivr.net/gh/yamilayma/cozy-badges@main/svg/telegram.svg)
 ![Vercel](https://cdn.jsdelivr.net/gh/yamilayma/cozy-badges@main/svg/vercel.svg)
+[![gayanvoice/top-github-users/peru](https://raw.githubusercontent.com/gayanvoice/top-github-users-ranking/main/svg/peru/yamilayma.svg)](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/peru.md#yamilayma)
 
 y varias más...
 
